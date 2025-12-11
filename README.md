@@ -24,24 +24,28 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martinditalo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martinditalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=martinditalo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=martinditalo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+</div> -->
 
 <div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=martinditalo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=martinditalo&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinditalo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  <img src="https://raw.githubusercontent.com/martinditalo/martinditalo/output/snake.svg" alt="Snake animation" />
+</div> 
+
+###
+
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/martinditalo/count.svg?"  />
-</div>
+</div> -->
 
-###
-
-<img src="https://raw.githubusercontent.com/martinditalo/martinditalo/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- <div align="center">
   <img height="300" src="https://i.imgur.com/L9umJZ7.gif"  />
