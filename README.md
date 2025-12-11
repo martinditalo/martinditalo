@@ -43,8 +43,8 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="300" src="https://i.imgur.com/L9umJZ7.gif"  />
-</div>
+</div> -->
 
 ###
